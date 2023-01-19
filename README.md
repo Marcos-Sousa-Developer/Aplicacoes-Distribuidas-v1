@@ -2,8 +2,8 @@
     <img src="https://www.freepnglogos.com/uploads/server-png/server-icon-download-icons-17.png" alt="Logo" width="80" height="80">
 </p>
 
-# <h1 align="center">Gestor de bloqueios a recursos para leituras e escritas</h3>
-<h4 align="center">Projeto para a cadeira de Aplicações Distribuídas (Parte1) (2021/2022)</h5>
+# <h1 align="center">Gestor de bloqueios a recursos para leituras e escritas</h1>
+<h4 align="center">Projeto para a cadeira de Aplicações Distribuídas (Parte1) (2021/2022)</h4>
 
 <hr>
 
