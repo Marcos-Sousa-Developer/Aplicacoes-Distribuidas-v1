@@ -65,7 +65,7 @@ STATUS <número do recurso>
 
 #### **Run it on terminal** 
 ```bash
-STATS K <número do recurso> | STATS N | STATS D
+STATS K <número do recurso> || STATS N || STATS D
 ```
 
 ## Comando PRINT
