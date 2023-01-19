@@ -92,4 +92,3 @@ Encerra a execução do cliente. Pode-se assumir que todas as execuções terão
 ```bash
 EXIT
 ```
-
