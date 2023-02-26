@@ -17,14 +17,13 @@ Basicamente, o gestor previne conflitos entre escritas de clientes diferentes, a
 
 # Instruções   
 
-## Primeiro Passo 
+## 1ºPasso: Correr o servidor 
 
-#### **Run it on terminal** 
 ```bash
 python3 lock_server.py
 ```
 
-## Segundo Passo 
+## 2ºPasso: Correr o cliente 
 
 #### **Run it on terminal** 
 ```bash
